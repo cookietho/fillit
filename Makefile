@@ -6,13 +6,13 @@
 #    By: sding <marvin@42.fr>                       +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2018/03/31 09:40:46 by sding             #+#    #+#              #
-#    Updated: 2018/03/31 09:41:02 by sding            ###   ########.fr        #
+#    Updated: 2019/02/18 13:50:56 by minakim          ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 MAKE = make -C
 NAME = fillit
-LIB = libft/
+LIB = ftlibft/
 FLAGS = -Wall -Wextra -Werror
 CC = gcc
 

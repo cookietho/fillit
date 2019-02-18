@@ -6,7 +6,7 @@
 /*   By: sding <marvin@42.fr>                       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/03/27 20:52:21 by sding             #+#    #+#             */
-/*   Updated: 2018/03/27 20:52:23 by sding            ###   ########.fr       */
+/*   Updated: 2019/02/18 13:51:25 by minakim          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,7 +17,7 @@
 # include <stdlib.h>
 # include <string.h>
 # include <stdio.h>
-# include "libft/libft.h"
+# include "ftlibft/libft.h"
 # define BUFF_SIZE 1024
 
 typedef	struct	s_point
