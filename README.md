@@ -17,3 +17,6 @@
 
 ##### test file example
 ![test sample](https://github.com/cookietho/fillit/blob/master/Screen%20Shot%202019-02-18%20at%202.09.37%20PM.png)
+
+##### Result
+![result sample](https://github.com/cookietho/fillit/blob/master/Screen%20Shot%202019-02-18%20at%202.30.21%20PM.png)
