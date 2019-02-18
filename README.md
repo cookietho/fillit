@@ -14,4 +14,6 @@
 ##### 3.run make to compile and link the sources
 ##### 4.make will create an excutable file called fillit
 ##### 5.excution:   ./fillit test   (example)
+
+##### test file example
 ![test sample](https://github.com/cookietho/fillit/blob/master/Screen%20Shot%202019-02-18%20at%202.09.37%20PM.png)
